@@ -1,0 +1,35 @@
+.content-home{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.content-home .text {
+    background-color: white;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 80vw;
+}
+
+.box-img{
+    height: 80%;
+    display: flex;
+    justify-content: center;
+}
+.box-img img {
+    width: 75%;
+    position: relative;
+    bottom: 20px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0);
+    border-radius: 5px;
+}
+
+@media(max-width: 780px) {
+    .box-img img{
+        bottom: 70px;
+    }
+}
+

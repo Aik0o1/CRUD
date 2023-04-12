@@ -1,0 +1,26 @@
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    background-color: #F9F8F8;
+    font-size: 1.5em;
+    box-shadow: 0 2px 23px 0 rgba(0, 0, 0, 0.1),
+                0 2px 49px 0 rgba(0, 0, 0, 0.06);
+    padding: 10px;
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.cabecalho img {
+    width: 200px;
+}
+
+.cabecalho .logo {
+    border-right: solid 2px white;
+}
+
+
+.subtitle{
+    color: rgb(177, 172, 172);
+}
