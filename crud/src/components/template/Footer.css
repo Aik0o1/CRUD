@@ -1,0 +1,35 @@
+.footer {
+    background-color: #F9F8F8;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.developed{
+    display: flex;
+    justify-content: end;
+    font-size: 15px;
+}
+
+.social {
+    display: flex;
+    font-size: 15px;
+    flex-direction: row;
+}
+
+.social a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+@media(max-width: 780px) {
+    .social, .developed {
+        font-size: 12px;
+    }
+}
+
+.social a:hover{
+    font-size: 16px;
+}

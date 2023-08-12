@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CRUD/static/css/main.f617d764.css",
+    "main.js": "/CRUD/static/js/main.98463d5a.js",
+    "static/js/787.ad4f4dcc.chunk.js": "/CRUD/static/js/787.ad4f4dcc.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/CRUD/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/afroGod.png": "/CRUD/static/media/afroGod.7ecb82125aea8c327e7a.png",
+    "static/media/img1.jpg": "/CRUD/static/media/img1.d4266f8d6e6164429de7.jpg",
+    "static/media/fontawesome-webfont.eot": "/CRUD/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/CRUD/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/CRUD/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/CRUD/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.png": "/CRUD/static/media/logo.ab6a991506fab2f6b2ba.png",
+    "static/media/punpun-chuva.png": "/CRUD/static/media/punpun-chuva.f6c4c54f85ed0aecbe5d.png",
+    "index.html": "/CRUD/index.html",
+    "main.f617d764.css.map": "/CRUD/static/css/main.f617d764.css.map",
+    "main.98463d5a.js.map": "/CRUD/static/js/main.98463d5a.js.map",
+    "787.ad4f4dcc.chunk.js.map": "/CRUD/static/js/787.ad4f4dcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f617d764.css",
+    "static/js/main.98463d5a.js"
+  ]
+}
